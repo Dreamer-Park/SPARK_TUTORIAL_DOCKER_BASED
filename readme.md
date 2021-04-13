@@ -36,4 +36,9 @@ ref : https://stackoverflow.com/questions/26346021/differences-between-apache-sq
 - Sqoop : Integration of DBs (SQL,No SQL and Data Lakes)
 - HQL => Hive SQL / 약간
 
-### 3. 
+### 3. Spark based API
+
+#### 3.1. HTTP API
+- on-going
+
+
